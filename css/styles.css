@@ -73,6 +73,10 @@ img {
    display: flex;
    margin-left: auto;
 }
+.contact-link {
+   display: flex;
+}
+
 .header {
    border-bottom: 1px solid var(--border-color);
 }
